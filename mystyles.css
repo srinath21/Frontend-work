@@ -53,3 +53,13 @@ background:#1A237E;
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a{
 	color:#000000
 }
+.inner-addon{
+		position:relative;
+}
+.inner-addon .glyphicon{
+		position: absolute;
+		padding: 10px;
+		pointer-events: none;
+}
+.right-addon .glyphicon{ right:0px;}
+.right-addon input{ padding-right:40px;}
