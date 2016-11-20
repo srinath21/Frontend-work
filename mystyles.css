@@ -63,3 +63,12 @@ background:#1A237E;
 }
 .right-addon .glyphicon{ right:0px;}
 .right-addon input{ padding-right:40px;}
+.tab-content{
+	border-left:1px solid #ddd;
+	border-right:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding: 10px;
+}
+.affix{
+	top:100px;
+}
